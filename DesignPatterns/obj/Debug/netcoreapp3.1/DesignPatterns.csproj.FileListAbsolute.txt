@@ -1,0 +1,17 @@
+D:\Develop\.Net\Design Patterns\dmitrinesteruk\solidprinciples\DesignPatterns\DesignPatterns\bin\Debug\netcoreapp3.1\DesignPatterns.exe
+D:\Develop\.Net\Design Patterns\dmitrinesteruk\solidprinciples\DesignPatterns\DesignPatterns\bin\Debug\netcoreapp3.1\DesignPatterns.deps.json
+D:\Develop\.Net\Design Patterns\dmitrinesteruk\solidprinciples\DesignPatterns\DesignPatterns\bin\Debug\netcoreapp3.1\DesignPatterns.runtimeconfig.json
+D:\Develop\.Net\Design Patterns\dmitrinesteruk\solidprinciples\DesignPatterns\DesignPatterns\bin\Debug\netcoreapp3.1\DesignPatterns.runtimeconfig.dev.json
+D:\Develop\.Net\Design Patterns\dmitrinesteruk\solidprinciples\DesignPatterns\DesignPatterns\bin\Debug\netcoreapp3.1\DesignPatterns.dll
+D:\Develop\.Net\Design Patterns\dmitrinesteruk\solidprinciples\DesignPatterns\DesignPatterns\bin\Debug\netcoreapp3.1\DesignPatterns.pdb
+D:\Develop\.Net\Design Patterns\dmitrinesteruk\solidprinciples\DesignPatterns\DesignPatterns\obj\Debug\netcoreapp3.1\DesignPatterns.csprojAssemblyReference.cache
+D:\Develop\.Net\Design Patterns\dmitrinesteruk\solidprinciples\DesignPatterns\DesignPatterns\obj\Debug\netcoreapp3.1\DesignPatterns.AssemblyInfoInputs.cache
+D:\Develop\.Net\Design Patterns\dmitrinesteruk\solidprinciples\DesignPatterns\DesignPatterns\obj\Debug\netcoreapp3.1\DesignPatterns.AssemblyInfo.cs
+D:\Develop\.Net\Design Patterns\dmitrinesteruk\solidprinciples\DesignPatterns\DesignPatterns\obj\Debug\netcoreapp3.1\DesignPatterns.dll
+D:\Develop\.Net\Design Patterns\dmitrinesteruk\solidprinciples\DesignPatterns\DesignPatterns\obj\Debug\netcoreapp3.1\DesignPatterns.pdb
+D:\Develop\.Net\Design Patterns\dmitrinesteruk\solidprinciples\DesignPatterns\DesignPatterns\bin\Debug\netcoreapp3.1\Autofac.dll
+D:\Develop\.Net\Design Patterns\dmitrinesteruk\solidprinciples\DesignPatterns\DesignPatterns\obj\Debug\netcoreapp3.1\DesignPatterns.csproj.CopyComplete
+D:\Develop\.Net\Design Patterns\dmitrinesteruk\solidprinciples\DesignPatterns\DesignPatterns\bin\Debug\netcoreapp3.1\MoreLinq.dll
+D:\Develop\.Net\Design Patterns\dmitrinesteruk\solidprinciples\DesignPatterns\DesignPatterns\obj\Debug\netcoreapp3.1\DesignPatterns.csproj.CoreCompileInputs.cache
+D:\Develop\.Net\Design Patterns\dmitrinesteruk\solidprinciples\DesignPatterns\DesignPatterns\bin\Debug\netcoreapp3.1\nunit.framework.dll
+D:\Develop\.Net\Design Patterns\dmitrinesteruk\solidprinciples\DesignPatterns\DesignPatterns\obj\Debug\netcoreapp3.1\DesignPatterns.genruntimeconfig.cache

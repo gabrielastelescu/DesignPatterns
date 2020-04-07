@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "jLFxbMazHU8NgyEDp2FWa310J9a4NEl+bkfgxTfTcDv7Xi1hdyh9GPddqlu2A+rTrU8g9qjxdvFCrYHaNjcx+Q==",
+  "success": true,
+  "projectFilePath": "D:\\Develop\\.Net\\Design Patterns\\dmitrinesteruk\\solidprinciples\\DesignPatterns\\DesignPatterns\\DesignPatterns.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gabri\\.nuget\\packages\\autofac\\5.1.2\\autofac.5.1.2.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\gabri\\.nuget\\packages\\morelinq\\3.3.2\\morelinq.3.3.2.nupkg.sha512",
+    "C:\\Users\\gabri\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\gabri\\.nuget\\packages\\nunit\\3.12.0\\nunit.3.12.0.nupkg.sha512"
+  ],
+  "logs": []
+}
