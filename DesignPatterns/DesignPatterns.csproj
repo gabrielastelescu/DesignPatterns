@@ -6,6 +6,16 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="Singleton\capitals.txt" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="Singleton\capitals.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="Autofac" Version="5.1.2" />
     <PackageReference Include="morelinq" Version="3.3.2" />
     <PackageReference Include="NUnit" Version="3.12.0" />

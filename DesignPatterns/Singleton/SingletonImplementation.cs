@@ -17,6 +17,7 @@ namespace DotNetDesignPatternDemos.Creational.Singleton
     {
         private Dictionary<string, int> capitals;
         private static int instanceCount;
+
         public static int Count => instanceCount;
 
         private SingletonDatabase()
@@ -38,7 +39,7 @@ namespace DotNetDesignPatternDemos.Creational.Singleton
             return capitals[name];
         }
 
-        // laziness + thread safety
+        // laziness + thread safety. Why lazy? Because we might even not need this instance
         private static Lazy<SingletonDatabase> instance = new Lazy<SingletonDatabase>(() =>
         {
             instanceCount++;
