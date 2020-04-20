@@ -37,7 +37,7 @@ namespace DesignPatterns
             }
         }
 
-        /* !!! THE WRONG WAY, KEEP MODIFYING THE SAME CLASS TO ADD NEW FUNCTIÓNALITY !!!!*/
+        /* !!! THE WRONG WAY, KEEP MODIFYING THE SAME CLASS TO ADD NEW FUNCTIONALITY !!!!*/
         public class ProductFilter
         {
             public IEnumerable<Product> FilterBySize(IEnumerable<Product> products, Size size)
