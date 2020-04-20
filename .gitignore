@@ -1,0 +1,12 @@
+
+DesignPatterns/bin/Debug/netcoreapp3.1/DesignPatterns.dll
+*.dll
+*.pdb
+.vs/DesignPatterns/v16/.suo
+.vs/DesignPatterns/v16/.suo
+.vs/DesignPatterns/v16/TestStore/0/000.testlog
+.vs/DesignPatterns/v16/TestStore/0/001.testlog
+.vs/DesignPatterns/v16/TestStore/0/000.testlog
+DesignPatterns/obj/Debug/netcoreapp3.1/DesignPatterns.csproj.CoreCompileInputs.cache
+*.cache
+*.dll
