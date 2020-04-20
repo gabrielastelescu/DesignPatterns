@@ -10,3 +10,6 @@ DesignPatterns/bin/Debug/netcoreapp3.1/DesignPatterns.dll
 DesignPatterns/obj/Debug/netcoreapp3.1/DesignPatterns.csproj.CoreCompileInputs.cache
 *.cache
 *.dll
+*.pdb
+*.dll
+*.cache
