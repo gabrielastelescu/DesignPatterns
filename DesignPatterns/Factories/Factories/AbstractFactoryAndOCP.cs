@@ -54,8 +54,8 @@ namespace DotNetDesignPatternDemos.Creational.AbstractFactoryAndOcp
             Coffee, Tea
         }
 
-        private Dictionary<AvailableDrink, IHotDrinkFactory> factories =
-          new Dictionary<AvailableDrink, IHotDrinkFactory>();
+        //private Dictionary<AvailableDrink, IHotDrinkFactory> factories =
+        //  new Dictionary<AvailableDrink, IHotDrinkFactory>();
 
         private List<Tuple<string, IHotDrinkFactory>> namedFactories =
           new List<Tuple<string, IHotDrinkFactory>>();
